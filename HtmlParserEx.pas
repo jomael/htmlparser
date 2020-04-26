@@ -1,86 +1,86 @@
-{
-  Html½âÎöÆ÷.
-  ×î½üÒòÎªÓÃµ½Html½âÎö¹¦ÄÜ.ÔÚÍøÉÏÕÒÁË¼¸¿îDelphi°æ±¾µÄ,½á¹û·¢ÏÖ½âÎö¸´ÔÓµÄHTML¶¼ÓĞÒ»Ğ©ÎÊÌâ.
-  Ã»°ì·¨×Ô¼ºĞ´ÁËÒ»¿î,¾­²âÊÔµ½ÏÖÔÚÃ»Óöµ½ÈÎºÎ½âÎö²»ÁËµÄHtml.
+ï»¿{
+  Htmlè§£æå™¨.
+  æœ€è¿‘å› ä¸ºç”¨åˆ°Htmlè§£æåŠŸèƒ½.åœ¨ç½‘ä¸Šæ‰¾äº†å‡ æ¬¾Delphiç‰ˆæœ¬çš„,ç»“æœå‘ç°è§£æå¤æ‚çš„HTMLéƒ½æœ‰ä¸€äº›é—®é¢˜.
+  æ²¡åŠæ³•è‡ªå·±å†™äº†ä¸€æ¬¾,ç»æµ‹è¯•åˆ°ç°åœ¨æ²¡é‡åˆ°ä»»ä½•è§£æä¸äº†çš„Html.
 
-  wr960204 ÎäÏ¡ËÉ 2013
+  wr960204 æ­¦ç¨€æ¾ 2013
 
   http://www.raysoftware.cn/?p=370
 
-  ¸ĞĞ»Å£ÈËÑîÑÓÕÜÔÚHTMLÓï·¨ºÍCSSÓï·¨·½ÃæµÄ°ïÖú.
+  æ„Ÿè°¢ç‰›äººæ¨å»¶å“²åœ¨HTMLè¯­æ³•å’ŒCSSè¯­æ³•æ–¹é¢çš„å¸®åŠ©.
   Thank Yang Yanzhe.
 
   http://www.pockhero.com/
 
-  ±¾°æ±¾Ö»Ö§³ÖDelphiXE3Ö®ºóµÄ°æ±¾.Èç¹ûÓÃÔçÆÚDelphiÇëÊ¹ÓÃHTMLParser.pasÎÄ¼ş.
-  Ö§³ÖWindows,MacOSX,iOS,AndroidÆ½Ì¨,ÍêÈ«È¥µôÁË¶ÔÖ¸ÕëµÄÊ¹ÓÃ.·ÀÖ¹ÒÔºóÒ×²©ÁúÈ¥µô
-  ÒÆ¶¯Æ½Ì¨¶ÔÖ¸ÕëµÄÖ§³Ö.
+  æœ¬ç‰ˆæœ¬åªæ”¯æŒDelphiXE3ä¹‹åçš„ç‰ˆæœ¬.å¦‚æœç”¨æ—©æœŸDelphiè¯·ä½¿ç”¨HTMLParser.pasæ–‡ä»¶.
+  æ”¯æŒWindows,MacOSX,iOS,Androidå¹³å°,å®Œå…¨å»æ‰äº†å¯¹æŒ‡é’ˆçš„ä½¿ç”¨.é˜²æ­¢ä»¥åæ˜“åšé¾™å»æ‰
+  ç§»åŠ¨å¹³å°å¯¹æŒ‡é’ˆçš„æ”¯æŒ.
 
-  ÍÑÀëÁË¶Ô¾É°æ±¾µÄÖ§³Ö,Ë¦µô°ü¸¤¿ª·¢ÆğÀ´ÕæµÄºÜË¬!
+  è„±ç¦»äº†å¯¹æ—§ç‰ˆæœ¬çš„æ”¯æŒ,ç”©æ‰åŒ…è¢±å¼€å‘èµ·æ¥çœŸçš„å¾ˆçˆ½!
   
 ---------------------------------------------------------------------------------
-ying32ĞŞ¸Ä¼ÇÂ¼
+ying32ä¿®æ”¹è®°å½•
 Email:1444386932@qq.com
 
- 2017Äê06ÔÂ20ÈÕ
+ 2017å¹´06æœˆ20æ—¥
 
- 1¡¢ÎªIHtmlElementListÔö¼Ófor in Óï·¨Ö§³Ö
+ 1ã€ä¸ºIHtmlElementListå¢åŠ for in è¯­æ³•æ”¯æŒ
 
- 2017Äê05ÔÂ04ÈÕ
+ 2017å¹´05æœˆ04æ—¥
 
- 1¡¢È¥³ıRegularExpressionsµ¥ÔªµÄÒıÓÃ£¬²»ÔÙÊ¹ÓÃTRegEx¸ÄÊ¹ÓÃRegularExpressionsCoreµ¥ÔªÖĞµÄTPerlRegEx
+ 1ã€å»é™¤RegularExpressionså•å…ƒçš„å¼•ç”¨ï¼Œä¸å†ä½¿ç”¨TRegExæ”¹ä½¿ç”¨RegularExpressionsCoreå•å…ƒä¸­çš„TPerlRegEx
 
- 2017Äê04ÔÂ19ÈÕ 
+ 2017å¹´04æœˆ19æ—¥ 
 
- 1¡¢Ôö¼ÓÊ¹ÓÃXPath¹¦ÄÜµÄ±àÒëÖ¸Áî"UseXPath"£¬Ä¬ÈÏ²»Ê¹ÓÃXPath£¬¸öÈË¸Ğ¾õÃ»Ê²Ã´ÓÃ  
+ 1ã€å¢åŠ ä½¿ç”¨XPathåŠŸèƒ½çš„ç¼–è¯‘æŒ‡ä»¤"UseXPath"ï¼Œé»˜è®¤ä¸ä½¿ç”¨XPathï¼Œä¸ªäººæ„Ÿè§‰æ²¡ä»€ä¹ˆç”¨  
 
- 2016Äê11ÔÂ23ÈÕ
+ 2016å¹´11æœˆ23æ—¥
 
- 1¡¢¼òµ¥Ö§³ÖXPath£¬¼òµ¥µÄ°É£¬ÀûÓÃxpath×ªcss selector£¬ºÙ
-    xpath×ª»»µÄ´úÂë¸Ä×Ôpython°æ±¾£ºhttps://github.com/santiycr/cssify/blob/master/cssify.py
-    ÁíÍâ¶ÔÕıÔòSystem.RegularExpressions.pasÖĞTGroupCollection.GetItem½øĞĞÁË¸Ä½ø£¬Ã»ÓĞÕÒµ½ÃüÃû×é
-    ÇÒ·ÇPCRE_ERROR_NOSUBSTRINGÊ±·µ»Ø¿ÕµÄ£¬¶ø²»ÊÇÅ×³öÒ»¸öÒì³£¡£ÔİÊ±¾Í¼òµ¥´Ö±¬µÄÖ±½Ó¸Ä°É£¬¹Ù·½ÍøÕ¾
-    ÉÏ¿´µ½ÓĞÈËÌá¹ıÕâ¸öQC£¬²»ÖªµÀºóÃæÓĞÃ»ÓĞ½â¾ö¡£
+ 1ã€ç®€å•æ”¯æŒXPathï¼Œç®€å•çš„å§ï¼Œåˆ©ç”¨xpathè½¬css selectorï¼Œå˜¿
+    xpathè½¬æ¢çš„ä»£ç æ”¹è‡ªpythonç‰ˆæœ¬ï¼šhttps://github.com/santiycr/cssify/blob/master/cssify.py
+    å¦å¤–å¯¹æ­£åˆ™System.RegularExpressions.pasä¸­TGroupCollection.GetItemè¿›è¡Œäº†æ”¹è¿›ï¼Œæ²¡æœ‰æ‰¾åˆ°å‘½åç»„
+    ä¸”éPCRE_ERROR_NOSUBSTRINGæ—¶è¿”å›ç©ºçš„ï¼Œè€Œä¸æ˜¯æŠ›å‡ºä¸€ä¸ªå¼‚å¸¸ã€‚æš‚æ—¶å°±ç®€å•ç²—çˆ†çš„ç›´æ¥æ”¹å§ï¼Œå®˜æ–¹ç½‘ç«™
+    ä¸Šçœ‹åˆ°æœ‰äººæè¿‡è¿™ä¸ªQCï¼Œä¸çŸ¥é“åé¢æœ‰æ²¡æœ‰è§£å†³ã€‚
 
- 2016Äê11ÔÂ15ÈÕ
+ 2016å¹´11æœˆ15æ—¥
 
- IHtmlElementºÍTHtmlElementµÄ¸Ä±ä£º
-  1¡¢AttributesÊôĞÔÔö¼ÓSet·½·¨
-  2¡¢TagNameÊôĞÔÔö¼ÓSet·½·¨
-  3¡¢Ôö¼ÓParentÊôĞÔ
-  4¡¢Ôö¼ÓRemoveAttr·½·¨
-  5¡¢Ôö¼ÓRemove·½·¨
-  6¡¢Ôö¼ÓRemoveChild·½·¨
-  7¡¢Ôö¼ÓFind·½·¨£¬´ËÎªSimpleCSSSelectorµÄÒ»¸öÁíÃû
-  8¡¢_GetHtml²»ÔÙÖ±½Ó¸½¼ÓFOrignalÊôĞÔÖµ£¬¶øÊÇÊ¹ÓÃGetSelfHtmlÖØĞÂ¶ÔĞŞ¸ÄºóµÄÔªËØ½øĞĞ¸³Öµ²Ù×÷£¬²¢¸üĞÂFOrignalµÄÖµ
-  9¡¢Ôö¼ÓTextÊôĞÔ
+ IHtmlElementå’ŒTHtmlElementçš„æ”¹å˜ï¼š
+  1ã€Attributeså±æ€§å¢åŠ Setæ–¹æ³•
+  2ã€TagNameå±æ€§å¢åŠ Setæ–¹æ³•
+  3ã€å¢åŠ Parentå±æ€§
+  4ã€å¢åŠ RemoveAttræ–¹æ³•
+  5ã€å¢åŠ Removeæ–¹æ³•
+  6ã€å¢åŠ RemoveChildæ–¹æ³•
+  7ã€å¢åŠ Findæ–¹æ³•ï¼Œæ­¤ä¸ºSimpleCSSSelectorçš„ä¸€ä¸ªå¦å
+  8ã€_GetHtmlä¸å†ç›´æ¥é™„åŠ FOrignalå±æ€§å€¼ï¼Œè€Œæ˜¯ä½¿ç”¨GetSelfHtmlé‡æ–°å¯¹ä¿®æ”¹åçš„å…ƒç´ è¿›è¡Œèµ‹å€¼æ“ä½œï¼Œå¹¶æ›´æ–°FOrignalçš„å€¼
+  9ã€å¢åŠ Textå±æ€§
 
-  Ê¹ÓÃÀı£º
+  ä½¿ç”¨ä¾‹ï¼š
      EL.Attributes['class'] := 'xxxx';
      EL.TagName = 'a';
-     EL.Remove ÒÆ³ı×Ô¼º
+     EL.Remove ç§»é™¤è‡ªå·±
      EL.RemoveChild(El2);
 
      El.Find('a');
 
- IHtmlElementListºÍTHtmlElementListµÄ¸Ä±ä£º 
-  1¡¢Ôö¼ÓRemoveAll·½·¨
-  2¡¢Ôö¼ÓRemove·½·¨
-  3¡¢Ôö¼ÓEach·½·¨  
-  4¡¢Ôö¼ÓTextÊôĞÔ
-  // Ê¹ÓÃÀı£º
+ IHtmlElementListå’ŒTHtmlElementListçš„æ”¹å˜ï¼š 
+  1ã€å¢åŠ RemoveAllæ–¹æ³•
+  2ã€å¢åŠ Removeæ–¹æ³•
+  3ã€å¢åŠ Eachæ–¹æ³•  
+  4ã€å¢åŠ Textå±æ€§
+  // ä½¿ç”¨ä¾‹ï¼š
 
-  // ÒÆ³ıÑ¡ÔñµÄÔªËØ
+  // ç§»é™¤é€‰æ‹©çš„å…ƒç´ 
   LHtml.Find('a').RemoveAll
 
-  // ²éÕÒ²¢±éÁ¤
+  // æŸ¥æ‰¾å¹¶éæ²¥
   LHtml.Find('a').Each(
     procedure(AIndex: Integer; AEl: IHtmlElement)
     begin
       Writeln('Index=', AIndex, ',  href=', AEl.Attributes['href']);
     end);
 
-  // Ö±½ÓÊä³ö£¬½öÑ¡ÖĞµÄµÚÒ»¸öÔªËØ
+  // ç›´æ¥è¾“å‡ºï¼Œä»…é€‰ä¸­çš„ç¬¬ä¸€ä¸ªå…ƒç´ 
   Writeln(LHtml.Find('title').Text);
 
 }
@@ -88,30 +88,35 @@ Email:1444386932@qq.com
 
 unit HtmlParserEx;
 
-{'$DEFINE UseXPath}
+
+{$IF RTLVersion < 24.0}
+  {$MESSAGE ERROR 'åªæ”¯æŒXE3åŠä¹‹åçš„ç‰ˆæœ¬'}
+{$ENDIF}
 
 interface
 
 uses
   SysUtils,
   Classes,
-  Generics.Collections
-{$IFDEF UseXPath}
-  ,RegularExpressionsCore
-{$ENDIF};
+  Generics.Collections,
+  RegularExpressionsCore;
 
 {$IF (defined(IOS) and defined(CPUARM)) or defined(ANDROID)}
 {$DEFINE MOBILE_DEV}
 {$ENDIF}
 
 const
-  LowStrIndex = Low(string); // ÒÆ¶¯Æ½Ì¨=0,¸öÈËµçÄÔÆ½Ì¨=1
+  // By design each IHtmlElement has a TagName property, even it's a 'Text' element.
+  // so cSpecialTagName_Text represents the fake tag name of a Text element
+  cSpecialTagName_Text = '#TEXT';
+
+  LowStrIndex = Low(string); // ç§»åŠ¨å¹³å°=0,ä¸ªäººç”µè„‘å¹³å°=1
 
 type
 
 {$IFNDEF MSWINDOWS}
-  { ½Ó¿ÚÊ¹ÓÃWideStringÊÇÎªÁË¿ÉÒÔ¸øÀıÈçC++,VBµÈÓïÑÔÊ¹ÓÃ.
-    µ«ÊÇÈç¹ûÀë¿ªÁËWindowsÆ½Ì¨,ÆäËûÆ½Ì¨ÊÇÃ»ÓĞWideStringÕâ¸öCOMµÄÊı¾İÀàĞÍµÄ.
+  { æ¥å£ä½¿ç”¨WideStringæ˜¯ä¸ºäº†å¯ä»¥ç»™ä¾‹å¦‚C++,VBç­‰è¯­è¨€ä½¿ç”¨.
+    ä½†æ˜¯å¦‚æœç¦»å¼€äº†Windowså¹³å°,å…¶ä»–å¹³å°æ˜¯æ²¡æœ‰WideStringè¿™ä¸ªCOMçš„æ•°æ®ç±»å‹çš„.
   }
   WideString = String;
 {$ENDIF}
@@ -123,34 +128,34 @@ type
   IHtmlElement = interface
     ['{8C75239C-8CFA-499F-B115-7CEBEDFB421B}']
     function GetParent: IHtmlElement; stdcall;
-    function GetTagName: WideString; safecall;
-    procedure SetTagName(Value: WideString); safecall;
-    function GetContent: WideString; safecall;
-    function GetOrignal: WideString; safecall;
+    function GetTagName: WideString; stdcall;
+    procedure SetTagName(Value: WideString); stdcall;
+    function GetContent: WideString; stdcall;
+    function GetOrignal: WideString; stdcall;
     function GetChildrenCount: Integer; stdcall;
     function GetChildren(Index: Integer): IHtmlElement; stdcall;
     function GetCloseTag: IHtmlElement; stdcall;
-    function GetInnerHtml(): WideString; safecall;
-    function GetOuterHtml(): WideString; safecall;
-    function GetInnerText(): WideString; safecall;
-    procedure SetInnerText(Value: WideString); safecall;
+    function GetInnerHtml(): WideString; stdcall;
+    function GetOuterHtml(): WideString; stdcall;
+    function GetInnerText(): WideString; stdcall;
+    procedure SetInnerText(Value: WideString); stdcall;
 
-    function GetAttributes(Key: WideString): WideString; safecall;
-    procedure SetAttributes(Key: WideString; Value: WideString); safecall;
+    function GetAttributes(Key: WideString): WideString; stdcall;
+    procedure SetAttributes(Key: WideString; Value: WideString); stdcall;
 
-    procedure RemoveAttr(AAttrName: string); safecall;
+    procedure RemoveAttr(AAttrName: string); stdcall;
 
     function GetSourceLineNum(): Integer; stdcall;
     function GetSourceColNum(): Integer; stdcall;
 
-    // Ôö¼ÓÒÆ³ı½Úµã
+    // å¢åŠ ç§»é™¤èŠ‚ç‚¹
     function RemoveChild(ANode: IHtmlElement): Integer; stdcall;
     procedure Remove; stdcall;
     function AppedChild(const ATag: string): IHtmlElement; stdcall;
 
-    // ÊôĞÔÊÇ·ñ´æÔÚ
+    // å±æ€§æ˜¯å¦å­˜åœ¨
     function HasAttribute(AttributeName: WideString): Boolean; stdcall;
-    { ÓÃCSSÑ¡ÔñÆ÷Óï·¨²éÕÒElement,²»Ö§³Ö"Î±Àà"
+    { ç”¨CSSé€‰æ‹©å™¨è¯­æ³•æŸ¥æ‰¾Element,ä¸æ”¯æŒ"ä¼ªç±»"
       CSS Selector Style search,not support Pseudo-classes.
 
       http://www.w3.org/TR/CSS2/selector.html
@@ -158,12 +163,11 @@ type
 
     function SimpleCSSSelector(const selector: WideString): IHtmlElementList; stdcall;
     function Find(const selector: WideString): IHtmlElementList; stdcall;
-{$IFDEF UseXPath}	
-    function FindX(const AXPath: WideString): IHtmlElementList; stdcall;
-{$ENDIF}
 
-    // Ã¶¾ÙÊôĞÔ
-    function EnumAttributeNames(Index: Integer): WideString; safecall;
+    function FindX(const AXPath: WideString): IHtmlElementList; stdcall;
+
+    // æšä¸¾å±æ€§
+    function EnumAttributeNames(Index: Integer): WideString; stdcall;
 
     property TagName: WideString read GetTagName write SetTagName;
     property ChildrenCount: Integer read GetChildrenCount;
@@ -172,7 +176,7 @@ type
     property Content: WideString read GetContent;
     property Orignal: WideString read GetOrignal;
     property Parent: IHtmlElement read GetParent;
-    // »ñÈ¡ÔªËØÔÚÔ´´úÂëÖĞµÄÎ»ÖÃ
+    // è·å–å…ƒç´ åœ¨æºä»£ç ä¸­çš„ä½ç½®
     property SourceLineNum: Integer read GetSourceLineNum;
     property SourceColNum: Integer read GetSourceColNum;
     //
@@ -182,6 +186,8 @@ type
     property Text: WideString read GetInnerText write SetInnerText;
 
     property Attributes[Key: WideString]: WideString read GetAttributes write SetAttributes;
+    // ying32 ä¸æ”¹åŠ¨åŸæ¥çš„ï¼Œåªç®€åŒ–ä½¿ç”¨
+    property Attrs[Key: WideString]: WideString read GetAttributes write SetAttributes;
   end;
 
 
@@ -212,9 +218,11 @@ type
   end;
 
 function ParserHTML(const Source: WideString): IHtmlElement; stdcall;
+function DecodeHtmlEntities(S: String): string; forward;
 
 implementation
-
+uses
+  StrUtils;
 
 
 type
@@ -270,7 +278,7 @@ type
   private
     function GetCharOfCurrent(Index: Integer): Char; inline;
   public
-    Code: String;
+    Code: string;
     CodeIndex: Integer;
     LineNum: Integer;
     ColNum: Integer;
@@ -303,40 +311,39 @@ type
   THtmlElement = class(TInterfacedObject, IHtmlElement)
   private
     function GetChildrens: IHtmlElementList;
-
   protected
     // ying32
     function GetParent: IHtmlElement; stdcall;
-    function GetTagName: WideString; safecall;
-    procedure SetTagName(Value: WideString); safecall;
+    function GetTagName: WideString; stdcall;
+    procedure SetTagName(Value: WideString); stdcall;
 
-    function GetContent: WideString; safecall;
-    function GetOrignal: WideString; safecall;
+    function GetContent: WideString; stdcall;
+    function GetOrignal: WideString; stdcall;
     function GetChildrenCount: Integer; stdcall;
     function GetChildren(Index: Integer): IHtmlElement; stdcall;
     function GetCloseTag: IHtmlElement; stdcall;
-    function GetInnerHtml(): WideString; safecall;
-    function GetOuterHtml(): WideString; safecall;
-    function GetInnerText(): WideString; safecall;
-    procedure SetInnerText(Value: WideString); safecall;
+    function GetInnerHtml(): WideString; stdcall;
+    function GetOuterHtml(): WideString; stdcall;
+    function GetInnerText(): WideString; stdcall;
+    procedure SetInnerText(Value: WideString); stdcall;
 
-    function GetAttributes(Key: WideString): WideString; safecall;
-    procedure SetAttributes(Key: WideString; Value: WideString); safecall;
+    function GetAttributes(Key: WideString): WideString; stdcall;
+    procedure SetAttributes(Key: WideString; Value: WideString); stdcall;
 
-    procedure RemoveAttr(AAttrName: string); safecall;
+    procedure RemoveAttr(AAttrName: string); stdcall;
 
     function GetSourceLineNum(): Integer; stdcall;
     function GetSourceColNum(): Integer; stdcall;
 
-    // ying32Ìí¼Ó
+    // ying32æ·»åŠ 
     function RemoveChild(ANode: IHtmlElement): Integer; stdcall;
     procedure Remove; stdcall;
     function AppedChild(const ATag: string): IHtmlElement; stdcall;
 
 
-    // ÊôĞÔÊÇ·ñ´æÔÚ
+    // å±æ€§æ˜¯å¦å­˜åœ¨
     function HasAttribute(AttributeName: WideString): Boolean; stdcall;
-    { ÓÃCSSÑ¡ÔñÆ÷Óï·¨²éÕÒElement,²»Ö§³Ö"Î±Àà"
+    { ç”¨CSSé€‰æ‹©å™¨è¯­æ³•æŸ¥æ‰¾Element,ä¸æ”¯æŒ"ä¼ªç±»"
       CSS Selector Style search,not support Pseudo-classes.
 
       http://www.w3.org/TR/CSS2/selector.html
@@ -344,12 +351,10 @@ type
 
     function SimpleCSSSelector(const selector: WideString): IHtmlElementList; stdcall;
     function Find(const selector: WideString): IHtmlElementList; stdcall;
-{$IFDEF UseXPath}	
-    function FindX(const AXPath: WideString): IHtmlElementList; stdcall;
-{$ENDIF}
 
-    // Ã¶¾ÙÊôĞÔ
-    function EnumAttributeNames(Index: Integer): WideString; safecall;
+    function FindX(const AXPath: WideString): IHtmlElementList; stdcall;
+    // æšä¸¾å±æ€§
+    function EnumAttributeNames(Index: Integer): WideString; stdcall;
 
     property TagName: WideString read GetTagName write SetTagName;
     property ChildrenCount: Integer read GetChildrenCount;
@@ -358,7 +363,7 @@ type
     property Content: WideString read GetContent;
     property Orignal: WideString read GetOrignal;
     property Parent: IHtmlElement read GetParent;
-    // »ñÈ¡ÔªËØÔÚÔ´´úÂëÖĞµÄÎ»ÖÃ
+    // è·å–å…ƒç´ åœ¨æºä»£ç ä¸­çš„ä½ç½®
     property SourceLineNum: Integer read GetSourceLineNum;
     property SourceColNum: Integer read GetSourceColNum;
     //
@@ -370,6 +375,8 @@ type
 
     property Childrens: IHtmlElementList read GetChildrens;
   private
+    // xpath to css, by:ying32
+    FValidationRe: TPerlRegEx;
     FClosed: Boolean;
     //
     FOwner: THtmlElement;
@@ -387,6 +394,14 @@ type
     procedure _GetText(IncludeSelf: Boolean; Sb: TStringBuilder);
     procedure _SimpleCSSSelector(const ItemGroup: TCSSSelectorItemGroup; r: TIHtmlElementList);
     procedure _Select(Item: PCSSSelectorItem; Count: Integer; r: TIHtmlElementList; OnlyTopLevel: Boolean = false);
+
+    // by:yin32 æ·»åŠ 
+    procedure InitXPathRegExPattern;
+    /// <summary>
+    ///    åˆ©ç”¨æ­£åˆ™æå–xpathå¹¶è½¬ä¸ºcssé€‰æ‹©å™¨ 
+    ///   è½¬æ¢ä»£ç æ¥è‡ªpython:https://github.com/santiycr/cssify/blob/master/cssify.py
+    /// </summary>
+    function XPathToCSSSelector(const AXPath: string): string;
   public
     constructor Create(AOwner: THtmlElement; AText: string; ALine, ACol: Integer);
     destructor Destroy; override;
@@ -403,7 +418,7 @@ type
     function Add(Value: IHtmlElement): Integer; inline;
     procedure Delete(Index: Integer); inline;
     procedure Clear; inline;
-    // ying32Ìí¼Ó
+    // ying32æ·»åŠ 
     procedure RemoveAll; stdcall;
     procedure Remove(ANode: IHtmlElement); stdcall;
     procedure Each(f: TElementEachEvent); stdcall;
@@ -440,7 +455,7 @@ begin
         StrChar := AStr[I]
       else if StrChar = AStr[I] then
         StrChar := #0;
-    // ²»ÔÚ×Ö·û´®ÖĞ,·Ö¸ô·û²ÅÉúĞ§
+    // ä¸åœ¨å­—ç¬¦ä¸²ä¸­,åˆ†éš”ç¬¦æ‰ç”Ÿæ•ˆ
     if StrChar = #0 then
       if CharInSet(AStr[I], ACharSet) then
       begin
@@ -570,7 +585,6 @@ const
     _aoEqual, _aoNotEqual, _aoIncludeWord, _aoBeginWord, _aoBegin, _aoEnd,
     _aoContain);
 
-function ConvertEntities(S: String): string; forward;
 function GetTagProperty(const TagName: string): WORD; forward;
 
 procedure DoError(const Msg: string);
@@ -621,8 +635,10 @@ begin
   Result := THtmlElement.Create(AOwner, AText, ALine, ACol);
   with Result do
   begin
-    FContent := ConvertEntities(AText);
-    FTagName := '#TEXT';
+    // Edwin: 2019-07-08: html entities in the text element shouldn't be decoded?
+    //FContent := DecodeHtmlEntities(AText);
+    FContent := AText;
+    FTagName := cSpecialTagName_Text;
     FClosed := True;
   end;
 end;
@@ -633,7 +649,9 @@ begin
   Result := THtmlElement.Create(AOwner, AText, ALine, ACol);
   with Result do
   begin
-    FContent := ConvertEntities(AText);
+    // Edwin: 2019-07-09: html entities in scripts shouldn't be decoded?
+    //FContent := DecodeHtmlEntities(AText);
+    FContent := AText;
     FTagName := '#SCRIPT';
     FClosed := True;
   end;
@@ -645,7 +663,9 @@ begin
   Result := THtmlElement.Create(AOwner, AText, ALine, ACol);
   with Result do
   begin
-    FContent := ConvertEntities(AText);
+    // Edwin: 2019-07-09: html entities in <style> tags shouldn't be decoded?
+    //FContent := DecodeHtmlEntities(AText);
+    FContent := AText;
     FTagName := '#STYLE';
     FClosed := True;
   end;
@@ -657,7 +677,9 @@ begin
   Result := THtmlElement.Create(AOwner, AText, ALine, ACol);
   with Result do
   begin
-    FContent := ConvertEntities(AText);
+    // Edwin: 2019-07-09: html entities in comments shouldn't be decoded?
+    //FContent := DecodeHtmlEntities(AText);
+    FContent := AText;
     FTagName := '#COMMENT';
     FClosed := True;
   end;
@@ -673,10 +695,10 @@ begin
   Result := THtmlElement.Create(AOwner, AText, ALine, ACol);
   with Result do
   begin
-    // TODO ½âÎöTagNameºÍÊôĞÔ
+    // TODO è§£æTagNameå’Œå±æ€§
     if AText = '' then
       Exit;
-    // È¥µôÁ½Í·µÄ<
+    // å»æ‰ä¸¤å¤´çš„<
 
     if AText[Low(AText)] = '<' then
       AText := StrRight(AText, Length(AText) - 1);
@@ -685,7 +707,7 @@ begin
       Exit;
     if AText[High(AText)] = '>' then
       AText := StrLeft(AText, Length(AText) - 1);
-    // ¼ì²éÊÇ¹Ø±Õ½Úµã,»¹ÊÇµ¥¸öÒÑ¾­¹Ø±ÕµÄ½Úµã
+    // æ£€æŸ¥æ˜¯å…³é—­èŠ‚ç‚¹,è¿˜æ˜¯å•ä¸ªå·²ç»å…³é—­çš„èŠ‚ç‚¹
     if AText = '' then
       Exit;
     FClosed := AText[High(AText)] = '/';
@@ -700,7 +722,7 @@ begin
     _ParserNodeItem(AText, FTagName, Attrs);
     for I := Low(Attrs) to High(Attrs) do
       FAttributes.AddOrSetValue(LowerCase(Attrs[I].Key),
-        ConvertEntities(Attrs[I].Value));
+        DecodeHtmlEntities(Attrs[I].Value));
   end;
 end;
 
@@ -710,7 +732,7 @@ begin
   Result := THtmlElement.Create(AOwner, AText, ALine, ACol);
   with Result do
   begin
-    FContent := ConvertEntities(AText);
+    FContent := DecodeHtmlEntities(AText);
     FTagName := '#DOCTYPE';
     FClosed := True;
     if FContent = '' then
@@ -778,7 +800,7 @@ var
       while True do
       begin
         if sc.CurrentChar = #0 then
-          DoError(Format('Î´Íê½áµÄStyleĞĞ:%d;ÁĞ:%d;', [sc.LineNum, sc.ColNum]))
+          DoError(Format('æœªå®Œç»“çš„Styleè¡Œ:%d;åˆ—:%d;', [sc.LineNum, sc.ColNum]))
         else if sc.CurrentChar = '>' then
         begin
           if (sc.charOfCurrent[-1] = '-') and (sc.charOfCurrent[-2] = '-') then
@@ -827,7 +849,7 @@ var
       while True do
       begin
         if sc.CurrentChar = #0 then
-          DoError(Format('Î´Íê½áµÄScriptĞĞ:%d;ÁĞ:%d;', [sc.LineNum, sc.ColNum]))
+          DoError(Format('æœªå®Œç»“çš„Scriptè¡Œ:%d;åˆ—:%d;', [sc.LineNum, sc.ColNum]))
         else if sc.CurrentChar = '>' then
         begin
           if (sc.charOfCurrent[-1] = '-') and (sc.charOfCurrent[-2] = '-') then
@@ -847,7 +869,7 @@ var
         case sc.CurrentChar of
           #0:
             Break;
-          '"', '''': // ×Ö·û´®
+          '"', '''': // å­—ç¬¦ä¸²
             begin
               stringChar := sc.CurrentChar;
               PreIsblique := false;
@@ -865,11 +887,11 @@ var
                 sc.IncSrc;
               end;
             end;
-          '/': // ×¢ÊÍ
+          '/': // æ³¨é‡Š
             begin
               sc.IncSrc();
               case sc.CurrentChar of
-                '/': // ĞĞ×¢ÊÍ
+                '/': // è¡Œæ³¨é‡Š
                   begin
                     while True do
                     begin
@@ -880,7 +902,7 @@ var
                       sc.IncSrc();
                     end;
                   end;
-                '*': // ¿é×¢ÊÍ
+                '*': // å—æ³¨é‡Š
                   begin
                     sc.IncSrc();
                     sc.IncSrc();
@@ -927,11 +949,11 @@ begin
     BeginColNum := sc.ColNum;
     if sc.CurrentChar = #0 then
       Break;
-    // "<"¿ªÍ·µÄ¾ÍÊÇTagÖ®ÀàµÄ
+    // "<"å¼€å¤´çš„å°±æ˜¯Tagä¹‹ç±»çš„
     if sc.CurrentChar = '<' then
     begin
       sc.IncSrc;
-      if sc.CurrentChar = '!' then // ×¢ÊÍ
+      if sc.CurrentChar = '!' then // æ³¨é‡Š
       begin
         ElementType := EtComment;
         sc.IncSrc;
@@ -942,7 +964,7 @@ begin
               while True do
               begin
                 if not PosCharInTag('>') then
-                  DoError('LineNum:' + IntToStr(BeginLineNum) + 'ÎŞ·¨ÕÒµ½Tag½áÊøµã:' +
+                  DoError('LineNum:' + IntToStr(BeginLineNum) + 'æ— æ³•æ‰¾åˆ°Tagç»“æŸç‚¹:' +
                     sc.subStr(100))
                 else if (sc.charOfCurrent[-1] = '-') and
                   (sc.charOfCurrent[-2] = '-') then
@@ -959,7 +981,7 @@ begin
               while True do
               begin
                 if not PosCharInTag('>') then
-                  DoError('LineNum:' + IntToStr(BeginLineNum) + 'ÎŞ·¨ÕÒµ½Tag½áÊøµã:' +
+                  DoError('LineNum:' + IntToStr(BeginLineNum) + 'æ— æ³•æ‰¾åˆ°Tagç»“æŸç‚¹:' +
                     sc.subStr(100))
                 else if (sc.charOfCurrent[-1] = ']') then
                 begin
@@ -978,7 +1000,7 @@ begin
               if PosCharInTag('>') then
                 sc.IncSrc
               else
-                DoError('LineNum:' + IntToStr(BeginLineNum) + 'ÎŞ·¨ÕÒµ½Tag½áÊøµã:' +
+                DoError('LineNum:' + IntToStr(BeginLineNum) + 'æ— æ³•æ‰¾åˆ°Tagç»“æŸç‚¹:' +
                   sc.subStr(100));
             end
             else
@@ -987,7 +1009,7 @@ begin
               if PosCharInTag('>') then
                 sc.IncSrc
               else
-                DoError('LineNum:' + IntToStr(BeginLineNum) + 'ÎŞ·¨ÕÒµ½Tag½áÊøµã:' +
+                DoError('LineNum:' + IntToStr(BeginLineNum) + 'æ— æ³•æ‰¾åˆ°Tagç»“æŸç‚¹:' +
                   sc.subStr(100));
             end;
           end;
@@ -1001,7 +1023,7 @@ begin
         while True do
         begin
           if not PosCharInTag('>') then
-            DoError('LineNum:' + IntToStr(BeginLineNum) + 'ÎŞ·¨ÕÒµ½Tag½áÊøµã:' +
+            DoError('LineNum:' + IntToStr(BeginLineNum) + 'æ— æ³•æ‰¾åˆ°Tagç»“æŸç‚¹:' +
               sc.subStr(100))
           else if (sc.charOfCurrent[-1] = '?') then
           begin
@@ -1011,19 +1033,19 @@ begin
           sc.IncSrc;
         end;
       end
-      else // Õı³£½Úµã
+      else // æ­£å¸¸èŠ‚ç‚¹
       begin
         ElementType := EtTag;
         sc.IncSrc;
         if PosCharInTag('>') then
           sc.IncSrc
         else
-          DoError('LineNum:' + IntToStr(BeginLineNum) + 'ÎŞ·¨ÕÒµ½Tag½áÊøµã:' +
+          DoError('LineNum:' + IntToStr(BeginLineNum) + 'æ— æ³•æ‰¾åˆ°Tagç»“æŸç‚¹:' +
             sc.subStr(100));
       end;
       tmp := sc.subStr(OldCodeIndex, sc.CodeIndex - OldCodeIndex);
     end
-    else // ²»ÊÇ"<"¿ªÍ·µÄ ÄÇ¾ÍÊÇ´¿ÎÄ±¾½Úµã
+    else // ä¸æ˜¯"<"å¼€å¤´çš„ é‚£å°±æ˜¯çº¯æ–‡æœ¬èŠ‚ç‚¹
     begin
       ElementType := EtText;
       while True do
@@ -1039,7 +1061,7 @@ begin
     case ElementType of
       EtUnknow:
         begin
-          DoError('LineNum:' + IntToStr(BeginLineNum) + 'ÎŞ·¨½âÎöµÄÄÚÈİ:' +
+          DoError('LineNum:' + IntToStr(BeginLineNum) + 'æ— æ³•è§£æçš„å†…å®¹:' +
             sc.subStr(100));
         end;
       EtDocType:
@@ -1055,7 +1077,7 @@ begin
           if (UpperCase(Tag.FTagName) = 'SCRIPT') and (not Tag.FIsCloseTag) and
             (not Tag.FClosed) then
           begin
-            // ¶ÁÈ¡Script
+            // è¯»å–Script
             BeginLineNum := sc.LineNum;
             BeginColNum := sc.ColNum;
             tmp := ParserScriptData();
@@ -1065,7 +1087,7 @@ begin
           else if (UpperCase(Tag.FTagName) = 'STYLE') and (not Tag.FIsCloseTag)
             and (not Tag.FClosed) then
           begin
-            // ¶ÁÈ¡Style
+            // è¯»å–Style
             BeginLineNum := sc.LineNum;
             BeginColNum := sc.ColNum;
             tmp := ParserStyleData();
@@ -1113,7 +1135,7 @@ begin
     E := ElementList[I] as THtmlElement;
     TagProperty := GetTagProperty(E.FTagName);
 
-    // ¿Õ½Úµã,ÍùÏÂÕÒ,Èç¹ûÏÂÒ»¸ö´øTagµÄ½Úµã²»ÊÇËüµÄ¹Ø±Õ½Úµã,ÄÇÃ´×Ô¶¯¹Ø±Õ
+    // ç©ºèŠ‚ç‚¹,å¾€ä¸‹æ‰¾,å¦‚æœä¸‹ä¸€ä¸ªå¸¦Tagçš„èŠ‚ç‚¹ä¸æ˜¯å®ƒçš„å…³é—­èŠ‚ç‚¹,é‚£ä¹ˆè‡ªåŠ¨å…³é—­
     FoundIndex := -1;
     if E.FIsCloseTag then
     begin
@@ -1127,7 +1149,7 @@ begin
           Break;
         end;
       end;
-      // Èç¹ûÍùÉÏÕÒ,ÕÒ²»µ½µÄ»°Õâ¸ö¹Ø±ÕTag¿Ï¶¨ÊÇÎŞÒâÒåµÄ.
+      // å¦‚æœå¾€ä¸Šæ‰¾,æ‰¾ä¸åˆ°çš„è¯è¿™ä¸ªå…³é—­Tagè‚¯å®šæ˜¯æ— æ„ä¹‰çš„.
       if FoundIndex > 0 then
       begin
         for J := (I - 1) downto FoundIndex do
@@ -1176,7 +1198,7 @@ begin
   Result := BuildTree(ElementList);
   ElementList.Free;
 end;
-{$REGION '×ª»»±íÖ®ÀàµÄ'}
+{$REGION 'è½¬æ¢è¡¨ä¹‹ç±»çš„'}
 
 var
   gEntities: TStringDictionary;
@@ -1392,7 +1414,7 @@ begin
   Result := Char(W);
 end;
 
-function ConvertEntities(S: String): string;
+function DecodeHtmlEntities(S: String): string;
 var
   tmp: string;
   I, p: Integer;
@@ -1558,7 +1580,7 @@ var
         end;
     else
       begin
-        DoError(Format('ÎŞ·¨½âÎöCSS Attribute²Ù×÷·û[%d,%d]', [sc.LineNum, sc.ColNum]));
+        DoError(Format('æ— æ³•è§£æCSS Attributeæ“ä½œç¬¦[%d,%d]', [sc.LineNum, sc.ColNum]));
       end;
     end;
     tmp := sc.subStr(oldIndex, sc.CodeIndex - oldIndex);
@@ -1609,13 +1631,13 @@ var
     // SetString(Result.Value, oldP, P - oldP);
     if (stringChar <> #0) and (Length(Result.Value) >= 2) then
       Result.Value := Copy(Result.Value, 2, Length(Result.Value) - 2);
-    Result.Value := ConvertEntities(Result.Value);
+    Result.Value := DecodeHtmlEntities(Result.Value);
     //
     sc.SkipBlank();
     if sc.CurrentChar = ']' then
       sc.IncSrc
     else
-      DoError(Format('ÎŞ·¨½âÎöAttributeÖµ[%d,%d]', [sc.LineNum, sc.ColNum]));
+      DoError(Format('æ— æ³•è§£æAttributeå€¼[%d,%d]', [sc.LineNum, sc.ColNum]));
 
   end;
 
@@ -1787,7 +1809,7 @@ begin
     else
       S := 0;
     S := S or tpFormatAsInline;
-    gTagProperty.AddOrSetValue(Key[I], S);
+    gTagProperty.AddOrSetValue(FormatAsInlineTags[I], S);
   end;
   for I := low(PreserveWhitespaceTags) to high(PreserveWhitespaceTags) do
   begin
@@ -1806,7 +1828,7 @@ begin
   gTagProperty.Free;
   gEntities.Free;
 end;
-{$ENDREGION '×ª»»±íÖ®ÀàµÄ'}
+{$ENDREGION 'è½¬æ¢è¡¨ä¹‹ç±»çš„'}
 { TIHtmlElementList }
 
 function TIHtmlElementList.Add(Value: IHtmlElement): Integer;
@@ -1911,10 +1933,12 @@ begin
   FOrignal := AText;
   FSourceLine := ALine;
   FSourceCol := ACol;
+  InitXPathRegExPattern;
 end;
 
 destructor THtmlElement.Destroy;
 begin
+  FValidationRe.Free;
   FChildren.Free;
   FAttributes.Free;
   inherited Destroy;
@@ -1989,7 +2013,7 @@ procedure THtmlElement._GetHtml(IncludeSelf: Boolean; Sb: TStringBuilder);
     LAttrs: string;
     LV: TPair<string,string>;
   begin
-    if FTagName.Equals('#TEXT') or
+    if FTagName.Equals(cSpecialTagName_Text) or
        FTagName.Equals('#SCRIPT') or
        FTagName.Equals('#STYLE') or
        FTagName.Equals('#COMMENT') or
@@ -2007,7 +2031,10 @@ procedure THtmlElement._GetHtml(IncludeSelf: Boolean; Sb: TStringBuilder);
       begin
         LAttrs := '';
         for LV in FAttributes do
-          LAttrs := LAttrs + Format('%s="%s" ', [LV.Key, LV.Value]);
+          if ContainsStr(LV.Value, '"') then
+            LAttrs := LAttrs + Format('%s=''%s'' ', [LV.Key, LV.Value])
+          else
+            LAttrs := LAttrs + Format('%s="%s" ', [LV.Key, LV.Value]);
         if LAttrs.Length > 2 then
           LAttrs := ' ' + LAttrs.Trim;
         Result := Format('<%s%s>%s', [FTagName.ToLower, LAttrs, FContent]);
@@ -2039,7 +2066,7 @@ var
   I: Integer;
   E: THtmlElement;
 begin
-  if IncludeSelf and (FTagName = '#TEXT') then
+  if IncludeSelf and (FTagName = cSpecialTagName_Text) then
   begin
     Sb.Append(FContent);
   end;
@@ -2202,6 +2229,23 @@ begin
   Result := FAttributes.ContainsKey(LowerCase(AttributeName));
 end;
 
+procedure THtmlElement.InitXPathRegExPattern;
+const
+  uRegExPattern =
+      '(?P<node>(^id\(["'']?(?P<idvalue>\s*[\w/:][-/\w\s,:;.]*)["'']?\)|' +
+      '(?P<nav>//?)(?P<tag>([a-zA-Z][a-zA-Z0-9]{0,10}|\*))(\[((?P<matched>' +
+      '(?P<mattr>@?[.a-zA-Z_:][-\w:.]*(\(\))?)=["''](?P<mvalue>\s*[\w/:]' +
+      '[-/\w\s,:;.]*))["'']|(?P<contained>contains\((?P<cattr>@?[.a-zA-Z_:]' +
+      '[-\w:.]*(\(\))?),\s*["''](?P<cvalue>\s*[\w/:][-/\w\s,:;.]*)' +
+      '["'']\)))\])?(\[(?P<nth>\d)\])?))';
+begin
+  if FValidationRe = nil then
+    FValidationRe := TPerlRegEx.Create;
+  FValidationRe.Options := [preCaseLess, preMultiLine];
+  FValidationRe.RegEx := uRegExPattern;
+  FValidationRe.Compile;
+end;
+
 function THtmlElement.RemoveChild(ANode: IHtmlElement): Integer;
 begin
   Result := -1;
@@ -2238,6 +2282,8 @@ end;
 procedure THtmlElement.SetTagName(Value: WideString);
 begin
   FTagName := UpperCase(Value);
+  if FCloseTag <> nil then
+    FCloseTag.TagName := Self.FTagName;
 end;
 
 function THtmlElement.SimpleCSSSelector(const selector: WideString)
@@ -2250,20 +2296,92 @@ begin
   Result := r as IHtmlElementList;
 end;
 
+function THtmlElement.XPathToCSSSelector(const AXPath: string): string;
+  function GetValue(AName: string): string;
+  begin
+    Result := FValidationRe.Groups[FValidationRe.NamedGroup(AName)];
+  end;
+
+var
+  LPosition, LXPathLen: Integer;
+  LNav, LTag, LAttr, LNth, LMattr, LMvalue, LNode_css: string;
+begin
+  Result := '';
+  LPosition := 1;
+  LXPathLen := Length(AXPath);
+  while LPosition < LXPathLen do
+  begin
+    FValidationRe.Subject := Copy(AXPath, LPosition, LXPathLen - LPosition + 1);
+    if not FValidationRe.Match then
+      Exit;
+    LNav := '';
+    if LPosition <> 1 then
+    begin
+      LNav := ' ';
+      if GetValue('nav') <> '//' then
+        LNav := ' > ';
+    end;
+
+    LTag := '';
+    if GetValue('tag') <> '*' then
+      LTag := GetValue('tag');
+
+    LAttr := '';
+    if GetValue('idvalue') <> '' then
+    begin
+      LAttr := '#' + GetValue('idvalue').Replace(' ', '#');
+    end else
+    if GetValue('matched') <> '' then
+    begin
+      LMattr := GetValue('mattr');
+      LMvalue := GetValue('mvalue');
+
+      if LMattr = '@id' then
+        LAttr := '#' + LMvalue.Replace(' ', '#')
+      else if LMattr = '@class' then
+        LAttr := '.' + LMvalue.Replace(' ', '.')
+      else if (LMattr = 'text()') or (LMattr = '.') then
+        LAttr := ':contains(^' + LMvalue + '$)'
+      else
+      begin
+        if Pos(' ', LMvalue) <> 0 then
+          LMvalue := '"' + LMvalue + '"';
+        LAttr := Format('[%s=%s]"', [LMattr.Replace('@', ''), LMvalue]);
+      end;
+    end else
+    if GetValue('contained') <> '' then
+    begin
+      LMattr := GetValue('cattr');
+      LMvalue := GetValue('cvalue');
+      if Pos('@', LMattr) > 0 then
+        LAttr := Format('[%s*=%s]', [LMattr.Replace('@', ''), GetValue('cvalue')])
+      else if GetValue('cattr') = 'text()' then
+        LAttr := ':contains(' + GetValue('cvalue') + ')';
+    end;
+
+    LNth := GetValue('nth');
+    if LNth <> '' then
+      LNth := ':nth-of-type(' + LNth +')';
+
+    LNode_css := LNav + LTag + LAttr + LNth;
+    Result := Result + LNode_css;
+    Inc(LPosition, FValidationRe.MatchedOffset + FValidationRe.MatchedLength - 1);
+  end;
+end;
+
 function THtmlElement.Find(const selector: WideString): IHtmlElementList;
 begin
   Result := SimpleCSSSelector(selector);
 end;
 
-{$IFDEF UseXPath}
-// .....
-function XPathToCSSSelector(const AXPath: string): string; forward;
-
 function THtmlElement.FindX(const AXPath: WideString): IHtmlElementList;
 begin
   Result := SimpleCSSSelector(XPathToCSSSelector(AXPath));
-end;
+{$IFDEF DEBUG}
+
 {$ENDIF}
+end;
+ 
 
 
 { TSourceContext }
@@ -2324,7 +2442,9 @@ begin
   else
     Inc(ColNum);
   Inc(CodeIndex);
+
   CurrentChar := Code[CodeIndex];
+
 {$IFDEF DEBUG}
   currentCode := PChar(@Code[CodeIndex]);
 {$ENDIF}
@@ -2357,7 +2477,6 @@ begin
     currentCode := PChar(@Code[CodeIndex]);
 {$ENDIF}
   end;
-
 end;
 
 function TSourceContext.PeekStr(Index: Integer): string;
@@ -2376,107 +2495,6 @@ begin
   while CharInSet(CurrentChar, WhiteSpace) do
     IncSrc();
 end;
-
-
-{$IFDEF UseXPath}
-/// <summary>
-///   ·ÅÔÚÕâÀïÒªÖ÷ÊÇÎªÁËÇø·ÖÔ­À´µÄ´úÂë£¬
-///   ×ª»»´úÂëÀ´×Ôpython:https://github.com/santiycr/cssify/blob/master/cssify.py
-/// </summary>
-var
-  Validation_re: TPerlRegEx;
-
-function XPathToCSSSelector(const AXPath: string): string;
-
-  function GetValue(AName: string): string;
-  begin
-    Result := Validation_re.Groups[Validation_re.NamedGroup(AName)];
-  end;
-
-var
-  LPosition, LXPathLen: Integer;
-  LNav, LTag, LAttr, LNth, LMattr, LMvalue, LNode_css: string;
-begin
-  Result := '';
-  LPosition := 1;
-  LXPathLen := Length(AXPath);
-  while LPosition < LXPathLen do
-  begin
-    Validation_re.Subject := Copy(AXPath, LPosition, LXPathLen - LPosition + 1);
-    if not Validation_re.Match then
-      Exit;
-    LNav := '';
-    if LPosition <> 1 then
-    begin
-      LNav := ' ';
-      if GetValue('nav') <> '//' then
-        LNav := ' > ';
-    end;
-
-    LTag := '';
-    if GetValue('tag') <> '*' then
-      LTag := GetValue('tag');
-
-    LAttr := '';
-    if GetValue('idvalue') <> '' then
-    begin
-      LAttr := '#' + GetValue('idvalue').Replace(' ', '#');
-    end else
-    if GetValue('matched') <> '' then
-    begin
-      LMattr := GetValue('mattr');
-      LMvalue := GetValue('mvalue');
-
-      if LMattr = '@id' then
-        LAttr := '#' + LMvalue.Replace(' ', '#')
-      else if LMattr = '@class' then
-        LAttr := '.' + LMvalue.Replace(' ', '.')
-      else if (LMattr = 'text()') or (LMattr = '.') then
-        LAttr := ':contains(^' + LMvalue + '$)'
-      else
-      begin
-        if Pos(' ', LMvalue) <> 0 then
-          LMvalue := '"' + LMvalue + '"';
-        LAttr := Format('[%s=%s]"', [LMattr.Replace('@', ''), LMvalue]);
-      end;
-    end else
-    if GetValue('contained') <> '' then
-    begin
-      LMattr := GetValue('cattr');
-      LMvalue := GetValue('cvalue');
-      if Pos('@', LMattr) > 0 then
-        LAttr := Format('[%s*=%s]', [LMattr.Replace('@', ''), GetValue('cvalue')])
-      else if GetValue('cattr') = 'text()' then
-        LAttr := ':contains(' + GetValue('cvalue') + ')';
-    end;
-
-    LNth := GetValue('nth');
-    if LNth <> '' then
-      LNth := ':nth-of-type(' + LNth +')';
-
-    LNode_css := LNav + LTag + LAttr + LNth;
-    Result := Result + LNode_css;
-    Inc(LPosition, Validation_re.MatchedOffset + Validation_re.MatchedLength - 1);
-  end;
-end;
-
-const
-  uRegExPattern =
-      '(?P<node>(^id\(["'']?(?P<idvalue>\s*[\w/:][-/\w\s,:;.]*)["'']?\)|' +
-      '(?P<nav>//?)(?P<tag>([a-zA-Z][a-zA-Z0-9]{0,10}|\*))(\[((?P<matched>' +
-      '(?P<mattr>@?[.a-zA-Z_:][-\w:.]*(\(\))?)=["''](?P<mvalue>\s*[\w/:]' +
-      '[-/\w\s,:;.]*))["'']|(?P<contained>contains\((?P<cattr>@?[.a-zA-Z_:]' +
-      '[-\w:.]*(\(\))?),\s*["''](?P<cvalue>\s*[\w/:][-/\w\s,:;.]*)' +
-      '["'']\)))\])?(\[(?P<nth>\d)\])?))';
-
-procedure InitRegExs;
-begin
-  Validation_re := TPerlRegEx.Create;
-  Validation_re.Options := [preCaseLess, preMultiLine];
-  Validation_re.RegEx := uRegExPattern;
-  Validation_re.Compile;
-end;
-{$ENDIF UseXPath}
 
 { THtmlListEnumerator }
 
@@ -2500,16 +2518,10 @@ begin
 end;
 
 initialization
-{$IFDEF UseXPath}
-  InitRegExs;
-{$ENDIF}
   Init;
 
 finalization
   UnInit;
-{$IFDEF UseXPath}
-  if Validation_re <> nil then
-    Validation_re.Free;
-{$ENDIF}
+ 
 
 end.
